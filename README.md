@@ -90,4 +90,12 @@ http://localhost:3000
 
 ## Author
 
-Job Portal Frontend Project built using React and Material UI.
+
+**Sathish Kumar B**
+
+GitHub:  
+https://github.com/Sathish292004
+
+---
+
+⭐ If you found this project useful, don't forget to give it a star on GitHub!
