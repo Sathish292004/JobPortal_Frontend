@@ -35,7 +35,7 @@ src/
 ### Clone Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sathish292004/JobPortal_Frontend.git
 cd JobPortal_Frontend-main
 ```
 
